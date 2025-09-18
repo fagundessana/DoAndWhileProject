@@ -46,4 +46,4 @@
 
 <h2>Mensagens de erro:</h2>
 <p>Se o usuário digitar uma opção inválida, o sistema exibirá a seguinte mensagem:</p>
-<img width="500" height="50" alt="opção inválida" src="https://github.com/user-attachments/assets/opcao-invalida.png" />
+<img width="589" height="184" alt="image" src="https://github.com/user-attachments/assets/668445b4-2d37-44d1-a7f5-7cf0f9d868fa" />
