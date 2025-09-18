@@ -12,27 +12,27 @@
 <h2>A execução do código:</h2>
 
 <p>Ao executar o programa, o usuário visualiza um menu com quatro exercícios e a opção de sair:</p>
-<img width="500" height="200" alt="menu de exercícios" src="https://github.com/user-attachments/assets/menu-exercicios.png" />
+<img width="547" height="165" alt="image" src="https://github.com/user-attachments/assets/04d8da5e-5ef5-4f84-8264-39e9df221186" />
 
 <p>O usuário deve escolher uma das opções digitando o número correspondente:</p>
 
 <h3>Opções disponíveis:</h3>
 <ol>
   <li><strong>1 - Números pares entre 1 e 20</strong></li>
-  <p>Exibe todos os números pares no intervalo de 1 a 20, utilizando <code>while</code>:</p>
-  <img width="500" height="50" alt="números pares" src="https://github.com/user-attachments/assets/numeros-pares.png" />
+  <p>Exibe todos os números pares no intervalo de 1 a 20, utilizando o <code>while</code>:</p>
+<img width="668" height="104" alt="image" src="https://github.com/user-attachments/assets/ed643174-c08f-47d4-9a25-922e9e3a5ca4" />
   
   <li><strong>2 - Tabuada de um número</strong></li>
   <p>Solicita ao usuário um número e exibe a tabuada de 1 a 10 utilizando <code>do-while</code>:</p>
-  <img width="500" height="150" alt="tabuada do número" src="https://github.com/user-attachments/assets/tabuada.png" />
+<img width="591" height="355" alt="image" src="https://github.com/user-attachments/assets/dafcb1a4-d45b-40bb-8c6f-dbb328882d79" />
 
   <li><strong>3 - Quantidade de números entre 100 e 125</strong></li>
-  <p>Conta quantos números existem entre 100 e 125 (inclusive), utilizando <code>while</code>:</p>
-  <img width="500" height="50" alt="quantidade de números" src="https://github.com/user-attachments/assets/quantidade-numeros.png" />
+  <p>Conta quantos números existem entre 100 e 125 (iniciando pelo 100), utilizando <code>while</code>:</p>
+<img width="481" height="96" alt="image" src="https://github.com/user-attachments/assets/64e739b3-6204-44b9-a3e9-1a0ab7080c14" />
 
   <li><strong>4 - Soma de números ímpares em um intervalo</strong></li>
   <p>Solicita ao usuário um intervalo e soma todos os números ímpares dentro desse intervalo, exibindo os números encontrados:</p>
-  <img width="500" height="100" alt="soma de ímpares" src="https://github.com/user-attachments/assets/soma-impares.png" />
+<img width="536" height="162" alt="image" src="https://github.com/user-attachments/assets/6e8a74b6-bc29-424d-af5f-0f40e023a4fb" />
 </ol>
 
 <h2>💡 Importante</h2>
@@ -41,7 +41,6 @@
   <ol>
     <li>O menu se repete até que o usuário escolha a opção 0 para sair.</li>
     <li>O programa trata entradas inválidas através de mensagens de erro quando necessário.</li>
-    <li>Cada exercício demonstra a aplicação prática de estruturas de repetição combinadas com condicionais.</li>
   </ol>
 </details>
 
